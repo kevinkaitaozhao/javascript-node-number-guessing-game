@@ -1,5 +1,5 @@
 const request = require('request')
-const cheerio = require('cheerio')
+const cheerio = require('cheerio') 
 
 let movieName = process.argv[2]
 let spoilerTime = process.argv[3]
